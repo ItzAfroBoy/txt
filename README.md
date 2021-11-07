@@ -23,6 +23,15 @@ To build:
 4. Run `make install` to copy the binary to path
 5. Enjoy
 
+## Features
+
+1. It acts as a code editor as well
+2. Syntax highlighting available in:
+	- [`C`](https://en.wikipedia.org/wiki/C_(programming_language))
+	- [`Python`](https://en.wikipedia.org/wiki/Python_(programming_language))
+3. Search in file
+4. Thats about it for now. It's WIP
+
 ## Updates
 
 ```markdown
