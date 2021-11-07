@@ -16,7 +16,3 @@ jobs:
       uses: actions/checkout@v2
     - name: make
       run: make
-    - name: Release-Notes-Preview
-      uses: snyk/release-notes-preview@v1.6.1
-      with:
-        releaseBranch: main
