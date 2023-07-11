@@ -2,6 +2,10 @@
 
 A shitty text editor
 
+[![GitHub](https://img.shields.io/github/license/ItzAfroBoy/txt)](https://github.com/ItzAfroBoy/txt/blob/main/LICENSE)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ItzAfroBoy/txt?color=red&label=txt)](https://github.com/ItzAfroBoy/txt)
+[![CodeFactor](https://www.codefactor.io/repository/github/itzafroboy/txt/badge)](https://www.codefactor.io/repository/github/itzafroboy/txt)
+
 ## Building
 
 You will need:
