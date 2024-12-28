@@ -1,10 +1,19 @@
-# txt
+<div align="center">
+<pre>
+ ______  __   __   ______   
+/\__  _\/\ \ /\ \ /\__  _\  
+\/_/\ \/\ `\`\/'/'\/_/\ \/  
+   \ \ \ `\/ > <     \ \ \  
+    \ \ \   \/'/\`\   \ \ \ 
+     \ \_\  /\_\\ \_\  \ \_\
+      \/_/  \/_/ \/_/   \/_/
+<br>
+A shitty text editor written in C99
+<br>
+<img alt="GitHub License" src="https://img.shields.io/github/license/ItzAfroBoy/txt"> <img alt="GitHub tag (with filter)" src="https://img.shields.io/github/v/tag/ItzAfroBoy/txt?label=version"> <a href="https://www.codefactor.io/repository/github/itzafroboy/txt"><img src="https://www.codefactor.io/repository/github/itzafroboy/txt/badge" alt="CodeFactor" /></a> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/ItzAfroBoy/txt">
+</pre>
+</div>
 
-A shitty text editor
-
-[![GitHub](https://img.shields.io/github/license/ItzAfroBoy/txt)](https://github.com/ItzAfroBoy/txt/blob/main/LICENSE)
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ItzAfroBoy/txt?color=red&label=txt)](https://github.com/ItzAfroBoy/txt)
-[![CodeFactor](https://www.codefactor.io/repository/github/itzafroboy/txt/badge)](https://www.codefactor.io/repository/github/itzafroboy/txt)
 
 ## Building
 
